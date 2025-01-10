@@ -20,4 +20,4 @@ This project demonstrates working with arrays and higher-order functions in Java
 ---
 
 ## 📸 Resource
-![Resource](https://drive.google.com/file/d/1fCBwInK_txXp51tOJ4oNPPmma-G2TJAl/view?usp=drive_link)
+![Resource](https://drive.google.com/uc?export=view&id=1fCBwInK_txXp51tOJ4oNPPmma-G2TJAl)
